@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python run_ast.py 2>&1)",
+      "PowerShell(python run_merge.py)",
+      "PowerShell(python run_build.py 2>&1)",
+      "PowerShell(python run_label.py 2>&1)",
+      "PowerShell(python run_benchmark.py 2>&1)",
+      "PowerShell(python run_merge_extract.py)",
+      "PowerShell(python run_graph_update.py)",
+      "PowerShell(python run_label.py)"
+    ]
+  }
+}

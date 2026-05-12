@@ -1,0 +1,19 @@
+{
+  "runs": [
+    {
+      "date": "2026-05-12T19:22:43.812263+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 3093
+    },
+    {
+      "date": "2026-05-12T19:51:55.474776+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 75,
+      "scope": "hermes_cli semantic"
+    }
+  ],
+  "total_input_tokens": 0,
+  "total_output_tokens": 0
+}

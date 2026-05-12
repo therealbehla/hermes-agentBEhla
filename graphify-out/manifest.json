@@ -1,0 +1,302 @@
+{
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\auth.py": {
+    "mtime": 1778612702.0168905,
+    "hash": "3ede99efa44b4a3e968bdaf8e85aea85"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\auth_commands.py": {
+    "mtime": 1778612702.0168905,
+    "hash": "4bf5a03b00a6bca6be37b0e693a0b513"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\azure_detect.py": {
+    "mtime": 1778612702.0168905,
+    "hash": "73580d7479b4c9035313fb845cf87e10"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\backup.py": {
+    "mtime": 1778612702.0168905,
+    "hash": "ac5c5baed41da834f2bda78e6012d066"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\banner.py": {
+    "mtime": 1778612702.0182798,
+    "hash": "73fdd26603fc36d551ade89042185d11"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\browser_connect.py": {
+    "mtime": 1778612702.0182798,
+    "hash": "d353646e15a9fa4bc5b796cdafad74ca"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\callbacks.py": {
+    "mtime": 1778612702.0182798,
+    "hash": "bad6226044b01b944b0e00b77c99d002"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\checkpoints.py": {
+    "mtime": 1778612702.0182798,
+    "hash": "2970618cf99701895ffd69b0448c2392"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\claw.py": {
+    "mtime": 1778612702.0192904,
+    "hash": "e68acecebfdbc884c41483ab8833a204"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\clipboard.py": {
+    "mtime": 1778612702.0192904,
+    "hash": "744e11a62bc112f37bdd70388d1f1a3a"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\cli_output.py": {
+    "mtime": 1778612702.0192904,
+    "hash": "d431784eaefc077368900da1a14432c1"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\codex_models.py": {
+    "mtime": 1778612702.0202901,
+    "hash": "33efe2f2286712603c43371ce18fbb21"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\colors.py": {
+    "mtime": 1778612702.0202901,
+    "hash": "925387d153b17f46a169ef1a894614c2"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\commands.py": {
+    "mtime": 1778612702.0202901,
+    "hash": "9452e0e414db4eff638e5d8938bd8f4b"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\completion.py": {
+    "mtime": 1778612702.0212896,
+    "hash": "c5a38f85d7da52320f4402d98d5f89f1"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\config.py": {
+    "mtime": 1778612702.0223048,
+    "hash": "7b71af486626e0a8382b2639c8e8d739"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\copilot_auth.py": {
+    "mtime": 1778612702.0223048,
+    "hash": "0247858781f57cc3d643f6ed4ba1703d"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\cron.py": {
+    "mtime": 1778612702.0232902,
+    "hash": "a275e317a90c7778e2c3c54ce0d03bc3"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\curator.py": {
+    "mtime": 1778612702.0232902,
+    "hash": "5c359fb285dfa45e76f21a0804c6a546"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\curses_ui.py": {
+    "mtime": 1778612702.0232902,
+    "hash": "b494e34fb8e5143f2c3619ead1906804"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\debug.py": {
+    "mtime": 1778612702.0242884,
+    "hash": "1050c6e69686b2594fa968bee2a94001"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\default_soul.py": {
+    "mtime": 1778612702.0242884,
+    "hash": "3316768f02bf8172eb09b73a92e4bd15"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\dingtalk_auth.py": {
+    "mtime": 1778612702.0242884,
+    "hash": "82ef275c3709176e494089c6d9c96a2b"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\doctor.py": {
+    "mtime": 1778612702.0253048,
+    "hash": "4bb571a269f64b2d0a3eaa53e27aa422"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\dump.py": {
+    "mtime": 1778612702.0253048,
+    "hash": "a7114199bffcc37f5dc3a978a2b5ed37"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\env_loader.py": {
+    "mtime": 1778612702.0253048,
+    "hash": "001455b11bd1a339e124f0f570225d10"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\fallback_cmd.py": {
+    "mtime": 1778612702.0253048,
+    "hash": "1530e7e536a1eaa02303abcc5e892a99"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\gateway.py": {
+    "mtime": 1778612702.027531,
+    "hash": "4ae3a7cb07e3ed101ebb8ff864f3d402"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\gateway_windows.py": {
+    "mtime": 1778612702.027531,
+    "hash": "9c0015a6ea6534b86b28f008e5d9fb2a"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\goals.py": {
+    "mtime": 1778612702.027531,
+    "hash": "fe3b29e55086def29e456a4cc4f20e4a"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\hooks.py": {
+    "mtime": 1778612702.0285168,
+    "hash": "d26f14f76bd9462155264d95e83c341f"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\kanban.py": {
+    "mtime": 1778612702.0285168,
+    "hash": "6b56200277253d98531a99cd67aa6834"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\kanban_db.py": {
+    "mtime": 1778612702.0299132,
+    "hash": "c917308ce512232a6d61d7c1688d8a21"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\kanban_diagnostics.py": {
+    "mtime": 1778612702.0309467,
+    "hash": "969a45daaaacbb9391cc81079eec3653"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\kanban_specify.py": {
+    "mtime": 1778612702.0309467,
+    "hash": "6d80eec46918203cf39d30dde40a20b9"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\logs.py": {
+    "mtime": 1778612702.0309467,
+    "hash": "ab27c156834f8dcf421ddde2a6b7a386"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\main.py": {
+    "mtime": 1778612702.0339434,
+    "hash": "8cd9cfb341c6d023c23638ed75a3fc2c"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\mcp_config.py": {
+    "mtime": 1778612702.0349302,
+    "hash": "c70dcb52837ccd7bd83d25853b1e4dac"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\memory_setup.py": {
+    "mtime": 1778612702.0349302,
+    "hash": "be8c960246f2a07c084d0a710c829e5a"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\models.py": {
+    "mtime": 1778612702.0369291,
+    "hash": "990c2ec2b22dc6bcf3e869ad0c6b56ac"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\model_catalog.py": {
+    "mtime": 1778612702.0349302,
+    "hash": "32c1080812c06b98309168ad2b0b9bf2"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\model_normalize.py": {
+    "mtime": 1778612702.0359297,
+    "hash": "be895310941ad615660a1569b156ddc2"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\model_switch.py": {
+    "mtime": 1778612702.0359297,
+    "hash": "8b4fff7fd130cb3892341b1f1cf1502d"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\nous_subscription.py": {
+    "mtime": 1778612702.0369291,
+    "hash": "2965255388a07f9b3a14a60549b1cf9b"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\oneshot.py": {
+    "mtime": 1778612702.03793,
+    "hash": "85f906d4bf82327c01ccf117b0d8f41b"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\pairing.py": {
+    "mtime": 1778612702.03793,
+    "hash": "c9930617f4d73588f2cee3f03d694876"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\platforms.py": {
+    "mtime": 1778612702.03793,
+    "hash": "4e28c7fb81fe49936842322eba39ec09"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\plugins.py": {
+    "mtime": 1778612702.0389414,
+    "hash": "8d2e05bc5f58576129b9d01bea3c799f"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\plugins_cmd.py": {
+    "mtime": 1778612702.0389414,
+    "hash": "6bf61fd9f05a797bdaff8e0bdbfdd298"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\profiles.py": {
+    "mtime": 1778612702.039928,
+    "hash": "800bcf3d736052696e7817714f72b861"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\profile_distribution.py": {
+    "mtime": 1778612702.039928,
+    "hash": "b89f345f87f1c508ce0f691baa60ea17"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\providers.py": {
+    "mtime": 1778612702.040931,
+    "hash": "486fe391cae037c365d09561eb94f7e5"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\pty_bridge.py": {
+    "mtime": 1778612702.040931,
+    "hash": "0367ca3144833f26babf59ea42bc7ce0"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\pt_input_extras.py": {
+    "mtime": 1778612702.040931,
+    "hash": "39730a8e8637389931304bd1f868c382"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\relaunch.py": {
+    "mtime": 1778612702.040931,
+    "hash": "da39a5d66a75bc3aa2b70a1487cde72c"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\runtime_provider.py": {
+    "mtime": 1778612702.0419295,
+    "hash": "f68c09aafceb70edd3ed42338d178e52"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\security_advisories.py": {
+    "mtime": 1778612702.0419295,
+    "hash": "834c6a9b19644108169c74906fa088d1"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\setup.py": {
+    "mtime": 1778612702.0429296,
+    "hash": "043c7b212af0015ec1e1ab3c273f1a41"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\skills_config.py": {
+    "mtime": 1778612702.0429296,
+    "hash": "6ffdcf541ac0829e188d52f0bdaa82c0"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\skills_hub.py": {
+    "mtime": 1778612702.0439296,
+    "hash": "6d6423246b5abebdbc3965288ab52355"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\skin_engine.py": {
+    "mtime": 1778612702.0439296,
+    "hash": "a1d465fd96d9adf3d5fc31dcf3af4d54"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\slack_cli.py": {
+    "mtime": 1778612702.0449438,
+    "hash": "9ef9a8e4e787f80f561e7251879c08f8"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\status.py": {
+    "mtime": 1778612702.0449438,
+    "hash": "9e30de3e624758d7928a1d3b60cc0227"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\stdio.py": {
+    "mtime": 1778612702.0449438,
+    "hash": "d81378992a1563fec853775e16292b43"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\timeouts.py": {
+    "mtime": 1778612702.0449438,
+    "hash": "3d000a7107e3ffb7ea78b5bb527209d1"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\tips.py": {
+    "mtime": 1778612702.0460732,
+    "hash": "1cc8381812c81ddf41aad6a92a75447e"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\tools_config.py": {
+    "mtime": 1778612702.0460732,
+    "hash": "9d5597eebe5ec64a5bc21123529c64dc"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\uninstall.py": {
+    "mtime": 1778612702.0474424,
+    "hash": "518f9bdc47e4dda28004d95c9223026c"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\vercel_auth.py": {
+    "mtime": 1778612702.0474424,
+    "hash": "cf30338802a239fff21a6c4a60ff8773"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\voice.py": {
+    "mtime": 1778612702.0484493,
+    "hash": "d65d42efcda02dec4a1fa35e3d295cea"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\webhook.py": {
+    "mtime": 1778612702.0504475,
+    "hash": "e6a7b87b45635968361c0846c8ec65b1"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\web_server.py": {
+    "mtime": 1778612702.0504475,
+    "hash": "4a9b5bbd5ebd3a8add2315659d27ff5d"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\_parser.py": {
+    "mtime": 1778612702.0144238,
+    "hash": "9324063d9bd3018e3dd23410f9031fb2"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\_subprocess_compat.py": {
+    "mtime": 1778612702.0144238,
+    "hash": "6025742c3a3f559d9aa1a719ba250755"
+  },
+  "C:\\Users\\User\\Documents\\GitHub\\hermes-agentBEhla\\hermes_cli\\__init__.py": {
+    "mtime": 1778612702.0144238,
+    "hash": "142d422a729d3377c6c81e8987848c5d"
+  }
+}
